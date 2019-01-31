@@ -1,0 +1,43 @@
+1# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+# 192.168.20.1  www.srilatha.com
+192.168.229.1 www.srinvas.com
+192.168.1.11    n1
+192.168.20.1 www.aaa.com
+198.168.0.103 www.dinesh.com
+190.160.120.12 vvv
+190.120.140.10 www.abcd.com
+190.120.160.1 naveen 80
+
+192.168.20.1   sangeetha
+192.160.222.1 n20
+192.168.20.1 wwww.mrs.com
+192.168.20.1 www.shiva.com
+192.168.20.1 www.testing.com
+
+192.168.20.1 www.siva.com
+192.168.20.1 www.ravi.com
+192.168.1.11 www.siva4.com
+192.168.0.103 www.hp.com
+#192.168.229.1 www.newsite.com
+#192.168.20.1 www.techops.com
+192.168.229.1 www.cricbuzz.com
